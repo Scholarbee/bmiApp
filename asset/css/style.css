@@ -1,0 +1,19 @@
+
+
+body{
+    align-items: center;
+}
+
+.main{
+    background-color: aqua;
+    max-width: 400px;
+    margin: 10vh auto 0 auto;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.form-item{
+    padding-left: 10%;
+    font-size: larger;
+    border-radius: 20px;
+}

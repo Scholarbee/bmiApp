@@ -1,0 +1,49 @@
+h3.h3_blue
+{
+    color: blue;
+}
+
+h3.h3_red
+{
+    color:red;
+}
+
+h3 {
+    color: blue;
+    }
+    
+    
+    /*class selection*/
+.c_head
+{
+    font-family: cursive;
+    color: orange;
+}
+    
+    
+    /*id selection*/
+#i_head
+{
+    font-variant: small-caps;
+    color: red;
+}
+
+.c_head{
+   font-family: cursive;
+   color: orange; /*override the blue color*/
+   }
+   
+   
+    /*id selection*/
+   #i_head{
+   color: red;
+   }
+   /*element selection*/
+   p {
+   font-variant: small-caps;
+   color: blue;
+   }
+
+   p {
+    color: green;
+    }
